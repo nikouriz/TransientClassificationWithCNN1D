@@ -1,0 +1,7 @@
+librosa==0.10.2.post1
+matplotlib==3.8.0
+numpy==2.0.0
+pandas==2.2.2
+pretty_midi==0.2.10
+torch==1.13.1
+torchsummary==1.5.1
